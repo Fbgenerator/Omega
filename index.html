@@ -6,7 +6,18 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
 <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"> 
-<meta name="google" content="notranslate"> 
+<meta name="google" content="notranslate">
+<style>
+  body{
+    font-family: 12px;
+    }
+  data_div{
+    font-family: 12px;
+    }
+  link_div{
+    font-family: 12px;
+    }
+</style>
 </head>
 <script type="text/javascript" src="firebase.js"></script>
 <script type="text/javascript" src="app.js"></script>
@@ -70,9 +81,9 @@ document.getElementById("data_div").innerHTML="Loading...";
 //  console.log("hsh"+i);
   if(i==0){
 
-  psdus.innerHTML="Username:- "+email+" <br>"+"Password:- "+password+"<br><br>"+"Info:- "+info+"<br><br><br>-------------------------------------------------<br><br>";
+  psdus.innerHTML="Username:- "+email+" <br>"+"Password:- "+password+"<br><br>"+"Info:- "+info+"<br><br>------------------------------------<br>";
   }else{
-  psdus.innerHTML+="Username:- "+email+" <br>"+"Password:- "+password+"<br><br>"+"Info:- "+info+"<br><br><br>------------------------------------------------<br><br>";
+  psdus.innerHTML+="Username:- "+email+" <br>"+"Password:- "+password+"<br><br>"+"Info:- "+info+"<br><br>-----------------------------------<br>";
   }
   
   }}
