@@ -4,14 +4,14 @@
 ///Edit Under This only
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAQdZ2efek_iBFz4AmjXfg_6viei49Y4tI",
-  authDomain: "hacking08-a2110.firebaseapp.com",
-  databaseURL: "https://hacking08-a2110.firebaseio.com",
-  projectId: "hacking08-a2110",
-  storageBucket: "hacking08-a2110.appspot.com",
-  messagingSenderId: "673145086217",
-  appId: "1:673145086217:web:f10bf48737e4dd99a9f3d8",
-  measurementId: "G-QGEWVDH9VM"
+  apiKey: "AIzaSyDo7a8-A6phGZaMU34cF6lFWKsUu7G-Em4",
+  authDomain: "fish-b18eb.firebaseapp.com",
+  databaseURL: "https://fish-b18eb.firebaseio.com",
+  projectId: "fish-b18eb",
+  storageBucket: "fish-b18eb.appspot.com",
+  messagingSenderId: "617230620651",
+  appId: "1:617230620651:web:83d75f69a5c7cb8b5d6bae",
+  measurementId: "G-3Q8SML5JGK"
 };
 
      
